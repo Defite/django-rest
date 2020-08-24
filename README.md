@@ -7,11 +7,9 @@
 3) `python3 -m venv env`
 4) `source env/bin/activate`
 5) Install dependencies via `pip install -r requirements.txt`
-6) `cd djapi`
-7) `django-admin startapp app`
-8) `python manage.py migrate` # Sync database
-9) `python manage.py createsuperuser --email admin@example.com --username admin` # Create initial user
-10) `python manage.py runserver` # Run server
+6) `python manage.py migrate` # Sync database
+7) `python manage.py createsuperuser --email admin@example.com --username admin` # Create initial user
+8) `python manage.py runserver` # Run server
 
 ## Admin
 
