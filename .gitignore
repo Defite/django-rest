@@ -1,0 +1,9 @@
+# Editor files
+.vscode
+
+# Virtual environment
+env
+db.sqlite3
+
+# Python specific files and folders
+__pycache__
